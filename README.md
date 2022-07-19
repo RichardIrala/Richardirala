@@ -2,7 +2,7 @@
 
 [![fondo-bummy.png](https://i.postimg.cc/LsWRFZMz/fondo-bummy.png)](https://postimg.cc/yJ02Fxxd)
 
-<h3>- 👯 Actualmente soy estudiante de la carrera de desarrollador web full stack en APX School. Estoy constantemente aprendiendo cosas nuevas. Amante del maquetado web y las media queries. En estos momentos estoy por comenzar a ver Base de Datos con FireBase para complementarlo con mis conocimientos de FrontEnd y poder entrar más a lo que es un perfil FullStack Web Developer</h3>
+<h3>- 👯 Actualmente soy estudiante de la carrera de desarrollador web full stack en APX School. Estoy constantemente aprendiendo cosas nuevas. Amante del FrontEnd. En estos momentos estoy aprendiendo a utilizar lo que es PostgreSQL junto con Sequelize. Junto con eso le sumo express para los endpoints del backend y en el FrontEnd TypeScript junto con parcel o solo y transpilandolo con TSC</h3>
 
 <h3 align="left">Contactate conmigo:</h3>
 <p align="left">
