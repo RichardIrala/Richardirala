@@ -2,7 +2,7 @@
 
 [![fondo-bummy.png](https://i.postimg.cc/LsWRFZMz/fondo-bummy.png)](https://postimg.cc/yJ02Fxxd)
 
-<h3>- En la actualidad estoy desarrollandome con React + TypeScript. Amante del FrontEnd aunque también poseo conocimientos de backend con PostgreSQL + Sequelize o si hablamos de lenguaje noSQL Firebase. Aspiro a un puesto como FrontEnd developer y/o FullStack Developer.</h3>
+<h3>- En la actualidad estoy ejerciendo el rol de Front-End developer en xerial hace 4 meses. Con experiencia en Next, Sass, React, TDD basico, Javascript, entre otros.</h3>
 
 <h3 align="left">Contactate conmigo:</h3>
 <p align="left">
