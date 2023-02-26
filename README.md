@@ -2,7 +2,7 @@
 
 [![fondo-bummy.png](https://i.postimg.cc/LsWRFZMz/fondo-bummy.png)](https://postimg.cc/yJ02Fxxd)
 
-<h3>- En la actualidad estoy ejerciendo el rol de Front-End developer en xerial hace 4 meses. Con experiencia en Next, Sass, React, TDD basico, Javascript, entre otros.</h3>
+<h3>- Front-End developer Jr. Con experiencia en Next, Sass, React, TDD basico, Javascript, entre otros.</h3>
 
 <h3 align="left">Contactate conmigo:</h3>
 <p align="left">
