@@ -22,7 +22,7 @@
 
 ## Destacados
 
-## 1 - <a href="https://github.com/RichardIrala/mascotas-perdidas-webapp-m7" target="_blank">WebApp de Mascotas perdidas hecha con TypeScript y Parcel</a>
+## 1 - <a href="https://github.com/RichardIrala/mascotas-perdidas-webapp-m7" target="_blank">WebApp de Mascotas perdidas hecha con TypeScript y Parcel</a> (Actualmente el backend se encuentra inactivo por ende la página no funciona correctamente)
 
 ## Mi actividad en GitHub
 
