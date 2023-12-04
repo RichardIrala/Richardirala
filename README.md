@@ -2,8 +2,8 @@
 
 [![fondo-bummy.png](https://i.postimg.cc/LsWRFZMz/fondo-bummy.png)](https://postimg.cc/yJ02Fxxd)
 
-<h3>- Front-End developer Jr. Con experiencia en Next, Sass, React, TDD basico, Javascript, entre otros.</h3>
-
+<h3>- Front-End developer con experiencia en Next, Sass, React, TDD, Javascript, entre otros.</h3>
+<h3>- Actualmente trabajando en <a href="https://www.linkedin.com/company/xerial/">Xerial</a> hace más de 1 año. Recientemente como CTO del mismo.</h3>
 <h3 align="left">Contactate conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/richard-miguel-irala-5139a2217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a" height="30" width="40" /></a>
