@@ -4,12 +4,12 @@
   <img src="./front-end-developer.jpg" alt="Image" style="border-radius: 12px; width: 80%; height: auto; margin-bottom: 40px">
 </p>
 
-<h3>
-  Hola, soy Richard Irala FrontEnd Developer. Debajo hay más detalles sobre mi y mi trabajo
-</h3>
+<h2>
+  Soy Richard Irala FrontEnd Developer. Actualmente trabajando en <a href="https://www.linkedin.com/company/horizon-blockchain-games/">Horizon</a>
+</h2>
 
-<h3>- Poseo conocimientos a nivel fullstack pero mi especialidad es el de Front-End developer con experiencia en Next, Sass, React, TDD, Javascript, Web3 (EVM) entre otros.</h3>
-<h3>- Actualmente trabajando en <a href="https://www.linkedin.com/company/xerial/">Xerial</a> hace más de 1 año y 4 meses.</h3>
+<h3>- Actualmente trabajando en <a href="https://www.linkedin.com/company/horizon-blockchain-games/">Horizon</a></h3>
+<h3>- Poseo conocimientos a nivel fullstack pero mi especialidad es el de Front-End engineer con experiencia en Next, Sass, React, TDD, Javascript, Web3 (EVM) entre otros.</h3>
 <h3 align="left">Contactate conmigo:</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardirala/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RichardIrala)
