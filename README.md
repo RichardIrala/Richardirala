@@ -8,7 +8,6 @@
   Soy Richard Irala FrontEnd Developer. Actualmente trabajando en <a href="https://www.linkedin.com/company/horizon-blockchain-games/">Horizon</a>
 </h2>
 
-<h3>- Actualmente trabajando en <a href="https://www.linkedin.com/company/horizon-blockchain-games/">Horizon</a></h3>
 <h3>- Poseo conocimientos a nivel fullstack pero mi especialidad es el de Front-End engineer con experiencia en Next, Sass, React, TDD, Javascript, Web3 (EVM) entre otros.</h3>
 <h3 align="left">Contactate conmigo:</h3>
 
