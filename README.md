@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/company/0xsequence/">Sequence</a>
 </h2>
 
-<h3>- I have full-stack knowledge, but my specialty is as a Front-End Engineer with experience in Next.js, Sass, React, TDD, JavaScript, Web3 (EVM), among others.</h3>
+<h3>- I have full-stack knowledge, but my specialty is as a Front-End Engineer with experience in Next.js, Sass, React, TDD, JavaScript, Web3 (EVM), and other technologies.</h3>
 <h3 align="left">Get in touch with me:</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardirala/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RichardIrala)
